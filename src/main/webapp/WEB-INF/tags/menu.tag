@@ -35,7 +35,7 @@
 							</li>
 							<li
 								class="${name=='sports' ? 'nav-item pl-4 pl-md-0 ml-0 ml-md-4 active' : 'nav-item pl-4 pl-md-0 ml-0 ml-md-4'}">
-								<a class="nav-link" href="https://playtogether-sprint2.herokuapp.com/">Aplicación <i
+								<a class="nav-link" href="https://playtogether-sprint2.herokuapp.com/">Aplicacion <i
 									class="fa fa-futbol-o"></i></a>
 							</li>
 						</ul>
